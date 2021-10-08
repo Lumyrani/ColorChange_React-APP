@@ -1,0 +1,14 @@
+.change{
+    background-color: rgb(230, 173, 173);
+    width: 200px;
+    overflow-x: scroll;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  button{
+    width: 80px;
+    height: 40px;
+    margin: 15px;
+  }
+  
